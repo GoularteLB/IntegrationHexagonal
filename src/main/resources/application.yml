@@ -1,0 +1,4 @@
+arrantes:
+  client:
+    address:
+      url: https//localhost:8082/address
