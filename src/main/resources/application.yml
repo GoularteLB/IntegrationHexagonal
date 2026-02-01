@@ -1,4 +1,9 @@
-arrantes:
+arantes:
   client:
     address:
       url: https//localhost:8082/address
+
+spring:
+  data:
+    mongodb:
+      url: mongodb://localhost:27617/hexagonal
